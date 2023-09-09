@@ -9,7 +9,7 @@ Path: http://localhost:9091/tasks
 
 Body:
 {
-  "title":"jump on table",
+  "title":"jump on the table",
   "description": "100 times",
   "status":"Not Done"
 }
